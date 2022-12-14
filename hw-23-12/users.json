@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "login": "alibi",
+        "password": "asdasd"
+    },
+    {
+        "id": 2,
+        "login": "alibi",
+        "password": "asdasd"
+    },
+    {
+        "id": 3,
+        "login": "alibi",
+        "password": "asdasd"
+    },
+    {
+        "id": 4,
+        "login": "alibi",
+        "password": "asdasd"
+    },
+    {
+        "id": 5,
+        "login": "daniyar",
+        "password": "asdasd"
+    }
+]
