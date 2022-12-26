@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Alibi",
+        "login": "realibi",
+        "password": "root"
+    },
+    {
+        "id": 2,
+        "name": "Audi",
+        "login": "realibi",
+        "password": "root"
+    },
+    {
+        "id": 3,
+        "name": "Audi",
+        "login": "realibi",
+        "password": "root"
+    },
+    {
+        "id": 4,
+        "name": "Audi",
+        "login": "realibi",
+        "password": "root"
+    }
+]
