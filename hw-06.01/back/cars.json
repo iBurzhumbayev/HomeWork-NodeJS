@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "model": "Audi",
+        "year": "2021",
+        "src": "https://mediaservice.audi.com/media/live/50900/fly1400x601n1/f83rj7/2023.png?imwidth=850"
+    },
+    {
+        "id": 2,
+        "model": "bmw",
+        "year": "2020",
+        "src": "https://www.bmw-kz.com/content/dam/bmw/marketB4R1/bmw_kz/all-models/m-series/m8-grancoupe/bmw-m8-competition-gran-coupe-modelfinder.png.asset.1650971207049.png"
+    },
+    {
+        "id": 3,
+        "model": "Porsche",
+        "year": "2022",
+        "src": "https://www.pngplay.com/wp-content/uploads/13/Porsche-Panamera-Transparent-Background.png"
+    },
+    {
+        "id": 4,
+        "model": "Porsche",
+        "year": "2022",
+        "src": "https://www.pngplay.com/wp-content/uploads/13/Porsche-Panamera-Transparent-Background.png"
+    },
+    {
+        "id": 5,
+        "model": "Porsche",
+        "year": "2022",
+        "src": "https://www.pngplay.com/wp-content/uploads/13/Porsche-Panamera-Transparent-Background.png"
+    }
+]
