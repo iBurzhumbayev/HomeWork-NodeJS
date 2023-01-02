@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15%;
+}
+
+#preview {
+    width: 60%;
+    min-height: 500px;
+    border: 1px solid;
+}
+
+#components {
+    width: 30%;
+    min-height: 500px;
+    border: 1px solid;
+    padding: 2%;
+}
+
+.component_item {
+    padding: 2%;
+    border: 1px solid;
+}
+
+p{
+    margin: 0;
+}
